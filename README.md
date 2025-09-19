@@ -39,7 +39,7 @@ I am continually working on self-improvement. Through the projects I develop and
 
 ## 📫 Get In Touch
 
-- **Email:** [rafetcelik789@gmail.com](mailto:rafetcelik789@gmail.com)
+- **Email:** [rafet.celik789@gmail.com](mailto:rafet.celik789@gmail.com)
 - **LinkedIn:** [linkedin.com/in/rafet-çelik-30b16229b](https://linkedin.com/in/rafet-çelik-30b16229b)
 
 _Thank you for visiting my profile!_
