@@ -22,7 +22,7 @@ I develop projects using the following tools and technologies:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="80" height="80"/>
-  <img src="https://worldvectorlogo.com/logos/amazon-web-services-logo.svg" alt="AWS" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="80" height="80"/>
 </p>
 
 ## 💻 About Me
