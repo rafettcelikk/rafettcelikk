@@ -19,11 +19,10 @@ Game Dev & Other
 - Creative Problem Solver
 
 📊 My GitHub Stats
-![Rafet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafettcelikk&show_icons=true&theme=radical)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafettcelikk&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafettcelikk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rafet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafettcelikk&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 📫 Get In Touch
 - Email: rafet.celik789@gmail.com
