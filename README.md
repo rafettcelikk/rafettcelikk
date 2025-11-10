@@ -21,6 +21,8 @@ Game Dev & Other
 📊 My GitHub Stats
 ![Rafet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafettcelikk&show_icons=true&theme=radical)
 
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafettcelikk&layout=compact&theme=radical)
 
 📫 Get In Touch
