@@ -56,6 +56,7 @@ I engage in both individual and team projects, continuously learning and adaptin
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafettcelikk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rafet's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafettcelikk&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 
 ---
