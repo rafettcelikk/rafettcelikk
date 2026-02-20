@@ -63,7 +63,7 @@ I engage in both individual and team projects, continuously learning and adaptin
 
 ## 📫 Get In Touch
 - 📧 **Email:** [rafet.celik789@gmail.com](mailto:rafet.celik789@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/rafet-çelik-30b16229b](https://linkedin.com/in/rafet-çelik-30b16229b)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/rafetcelik](https://www.linkedin.com/in/rafetcelik)
 
 ---
 
