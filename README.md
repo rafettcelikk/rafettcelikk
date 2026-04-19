@@ -1,70 +1,66 @@
+<div align="center">
+  
 # 👋 Hi there, I'm Rafet Çelik!
 
-**Full-Stack Java Developer | Spring Boot & React | AI Integration Enthusiast**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Full-Stack+Java+Developer;Spring+Boot+%26+React;AI+Integration+Enthusiast;Building+Scalable+Systems)](https://git.io/typing-svg)
 
-I am a software developer with a strong focus on building scalable backend architectures, interactive frontend interfaces, and integrating next-generation AI capabilities into modern applications. I don't just write code; I enjoy solving complex architectural problems, reading logs, and turning ideas into production-ready systems.
+*I don't just write code; I enjoy solving complex architectural problems, reading logs, and turning ideas into production-ready systems.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafetcelik)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafet.celik789@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 About Me & What I Do
 
-I believe the best way to learn is by building real-world products. Here are some of my recent milestones:
+I am a software developer with a strong focus on building scalable backend architectures, interactive frontend interfaces, and integrating next-generation technologies into modern applications. Continuously advancing my academic foundations at **Ankara University** while actively coding and expanding my tech stack every day.
 
-* 🐾 **Universal Pet Care:** Designed and developed a complete end-to-end full-stack application using **React** and **Spring Boot**, handling everything from database modeling to the user interface.
-* 🤖 **AI Customer Support Assistant:** Currently building a real-time, AI-powered customer support system. It utilizes **WebSockets** for live chat, **Spring AI (LLMs)** for intent recognition, and automated ticket generation workflows.
-* 🎓 Continuously advancing my academic foundations at **Ankara University** while actively coding every day.
+* 🧠 **AI & Real-Time Systems:** Passionate about integrating LLMs (Large Language Models) into applications and building real-time communication protocols (WebSockets) for seamless user experiences.
+* 🏗️ **End-to-End Architecture:** Experienced in designing and developing complete full-stack applications, handling everything from complex database modeling to responsive user interfaces.
+* ⚙️ **Continuous Growth:** Actively transitioning towards modern DevOps practices, containerization (Docker), and exploring the fundamentals of Game Development (Unity/C++).
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-### 🌐 Full-Stack Web
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="55" height="55"/>
-</p>
+<div align="center">
+
+### 🌐 Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=light" alt="Frontend Icons" />
+</a>
 
 ### ⚙️ Backend & AI
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" height="55"/>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,php&theme=light" alt="Backend Icons" />
+</a>
 
-### 🗄️ Database & Infrastructure
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="55" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="55" height="55"/>
-</p>
+### 🗄️ Database, Infrastructure & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,aws,docker,git,postman&theme=light" alt="Database and Infra Icons" />
+</a>
 
 ### 📱 Mobile & Game Dev
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="55" height="55"/>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,unity&theme=light" alt="Mobile and Game Dev Icons" />
+</a>
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
+
+<div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafettcelikk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rafet's GitHub Stats" height="180"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafettcelikk&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
+</div>
 
 ---
 
-## 📫 Let's Connect!
-Looking to collaborate on exciting projects, or just want to chat about AI, Java, or software architecture? Feel free to reach out:
-
-* 💼 **LinkedIn:** [linkedin.com/in/rafetcelik](https://www.linkedin.com/in/rafetcelik)
-* 📧 **Email:** [rafet.celik789@gmail.com](mailto:rafet.celik789@gmail.com)
-
-✨ *Always learning, always building.* ✨
+<div align="center">
+  <i>Looking to collaborate on exciting projects, or just want to chat about AI, Java, or software architecture? Feel free to reach out!</i><br><br>
+  ✨ <b>Always learning, always building.</b> ✨
+</div>
