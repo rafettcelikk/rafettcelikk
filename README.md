@@ -1,92 +1,116 @@
 <div align="center">
 
-# 👋 Hi there, I'm Rafet Çelik!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Rafet%20%C3%87elik&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Java%20Developer&descSize=22&descAlignY=60" width="100%" alt="Header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full-Stack+Java+Developer;Spring+Boot+%26+React;Microservices+%7C+Spring+Cloud+%7C+Kubernetes;Building+Containerized+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=Spring+Boot+%26+React+Developer;Microservices+%7C+Spring+Cloud+%7C+Keycloak;Docker+%7C+Kubernetes+%7C+Helm;Turning+ideas+into+production-ready+systems)](https://git.io/typing-svg)
 
-*I don't just write code; I enjoy solving complex architectural problems, reading logs, and turning ideas into production-ready, automated systems.*
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafetcelik)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafet.celik789@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=rafettcelikk&color=2563EB&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafetcelik)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafet.celik789@gmail.com)
+[![Ankara University](https://img.shields.io/badge/Ankara_University-1E3A8A?style=for-the-badge&logo=academia&logoColor=white)](https://www.ankara.edu.tr)
+![Views](https://komarev.com/ghpvc/?username=rafettcelikk&label=Profile%20Views&color=2563EB&style=for-the-badge)
 
 </div>
 
----
+<br>
 
-## 🚀 About Me
+## 👤 About
 
-I'm a software developer focused on **scalable backend architectures**, **interactive frontends**, and **reliable deployment pipelines**. I'm a student at **Ankara University** and keep expanding my stack to match modern industry standards.
+> I don't just write code. I enjoy solving complex architectural problems, reading logs, and turning ideas into automated, production-ready systems.
 
-- 🏗️ **End-to-End Development:** Full-stack apps with Spring Boot & React, from relational data modeling to responsive UIs.
-- 🧩 **Microservices:** Completed microservices training; I design services with their own databases, an API gateway, centralized config, and resilience patterns.
-- 🧠 **System Architecture & AI:** Solving complex backend logic, integrating LLMs with Spring AI, and building real-time communication.
-- ⚙️ **DevOps:** Containerizing with **Docker & Kubernetes**, packaging with **Helm**, and moving toward full **CI/CD** automation.
+I'm a software developer and a student at **Ankara University**, focused on scalable backend architectures, clean user interfaces, and reliable deployment workflows.
 
----
+I completed a microservices training program and applied it end-to-end in [**celikbank-microservice-project**](https://github.com/rafettcelikk/celikbank-microservice-project): independent services with their own databases, an API gateway, centralized configuration, OAuth2 security, and Helm-based Kubernetes deployment.
 
-## ⭐ Featured Project: CelikBank
+<br>
 
-A microservices-based banking platform with independent **Accounts**, **Cards**, and **Loans** services, each with its own database.
+## 🧭 Core Competencies
 
-| Layer | Technologies |
-|-------|--------------|
-| **Services** | Spring Boot, Java 21+ |
-| **Cloud Patterns** | Spring Cloud Gateway, Spring Cloud Config, Kubernetes-native discovery |
-| **Resilience** | Resilience4j |
-| **Security** | Keycloak (OAuth2 / JWT) |
-| **Data** | MySQL, Redis |
-| **Packaging & Deploy** | Docker, Jib, Kubernetes, Helm 3.x |
+<table>
+  <tr>
+    <td width="170"><b>⚙️ Backend</b></td>
+    <td>Java 21 · Spring Boot · Spring AI · REST APIs · LLM Integration</td>
+  </tr>
+  <tr>
+    <td><b>🧩 Microservices</b></td>
+    <td>Spring Cloud Gateway & Config · Resilience4j · Keycloak (OAuth2 / JWT) · Database-per-Service</td>
+  </tr>
+  <tr>
+    <td><b>🌐 Frontend</b></td>
+    <td>React.js · JavaScript · HTML · CSS</td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Data</b></td>
+    <td>PostgreSQL · MySQL · Redis</td>
+  </tr>
+  <tr>
+    <td><b>☁️ Cloud & DevOps</b></td>
+    <td>Docker · Kubernetes · Helm · Jib · AWS · Git</td>
+  </tr>
+  <tr>
+    <td><b>📱 Mobile</b></td>
+    <td>Flutter · Dart</td>
+  </tr>
+</table>
 
-```bash
-helm install celikbank ./helm
-```
+<br>
 
-👉 [**View the repository**](https://github.com/rafettcelikk/celikbank-microservice-project)
-
----
-
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**🌐 Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=light" alt="Frontend" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**⚙️ Backend**<br>
-<img src="https://skillicons.dev/icons?i=java,spring,php&theme=light" alt="Backend" />
+<br>
 
-**🗄️ Database**<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=light" alt="Database" />
-
-**☁️ Cloud, Microservices & DevOps**<br>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,helm,git,postman&theme=light" alt="DevOps" />
-
-**📱 Mobile & Game Dev**<br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,cs,unity&theme=light" alt="Mobile" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,php,flutter,dart,cs,unity&theme=light" alt="Languages and Frameworks" />
 
 </div>
 
----
+<br>
 
 ## 🌱 Currently
 
-- 🔭 Deepening my Kubernetes and Helm knowledge
-- 🔧 Preparing to add CI/CD pipelines to my projects
+- 🔭 Deepening my Kubernetes and Helm expertise
+- 🔧 Adding CI/CD pipelines to my projects
 - 🤖 Exploring LLM integration with Spring AI
 
----
+<br>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafettcelikk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rafet's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafettcelikk&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafettcelikk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafettcelikk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" height="180" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafettcelikk&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Graph" />
+
 </div>
 
----
+<br>
 
 <div align="center">
-  <i>Looking to collaborate, or just want to chat about Java, microservices, or automated deployments? Feel free to reach out!</i><br><br>
-  ✨ <b>Always learning, always building.</b> ✨
+
+*Open to collaboration and conversations about Java, microservices, and automated deployments.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" width="100%" alt="Footer" />
+
 </div>
