@@ -30,7 +30,7 @@ I completed a microservices training program and applied it end-to-end in [**cel
 <table>
   <tr>
     <td width="170"><b>⚙️ Backend</b></td>
-    <td>Java 21 · Spring Boot · Spring AI · REST APIs · LLM Integration</td>
+    <td>Java · Spring Boot · Spring AI · REST APIs · LLM Integration</td>
   </tr>
   <tr>
     <td><b>🧩 Microservices</b></td>
