@@ -84,14 +84,6 @@ I completed a microservices training program and applied it end-to-end in [**cel
 
 <br>
 
-## 🌱 Currently
-
-- 🔭 Deepening my Kubernetes and Helm expertise
-- 🔧 Adding CI/CD pipelines to my projects
-- 🤖 Exploring LLM integration with Spring AI
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
